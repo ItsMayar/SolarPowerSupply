@@ -9,8 +9,8 @@ The sun charges the solar panel which sends electricity to the battery for power
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>•	Packet Tracer 7.1</b> 
+
 
 <h2>Environments Used </h2>
 
