@@ -1,7 +1,5 @@
 <h1>Connecting Devices to build solar-based power supply IoT</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 <h2>Description</h2>
 The sun charges the solar panel which sends electricity to the battery for power storage and distribution. A power meter connected between them reads and display the amount of power being captured by the solar panel. Because all devices are connected (IoT capabilities), they register themselves with a registration server, allowing a user to monitor the entire system from a web browser (running in the PC).
 <br />
@@ -21,10 +19,6 @@ The sun charges the solar panel which sends electricity to the battery for power
 <p align="center">
 Connecting Devices to build IoT System: <br/>
 <img src="https://i.imgur.com/MaSQPJZ.png" height="60%" width="60%" alt="Packet Tracer"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
